@@ -14,6 +14,5 @@
 До подрезания             |  После
 :-------------------------:|:-------------------------:
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/d6dc0a47-8c9c-46c2-ad62-356c2bd5533e) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/8b659ff3-4927-47b0-8a72-4043ee2e9a54)
-:-------------------------:|:-------------------------:
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1e4f067a-49aa-43b0-9277-b551cdfc687f) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/cea9ff3c-17d3-49b1-8c3b-0c69e66ea645)
 
