@@ -7,4 +7,4 @@
     * Реплика 2: ENCLB060JFJ
     * Контроль: ENCFF000VEK 
 
-    
+Ссылка на тетрадку: https://colab.research.google.com/drive/1OT6iWlQWoBWUgF2p0lcDzlcx1gItRXm4?usp=sharing
