@@ -35,9 +35,10 @@
 
 ### ENCFF000VEK
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/7ce0ceb6-f247-4f5b-8839-81776b02fcd3) 
-:-------------------------:|:-------------------------:
-![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/99d85491-4b9f-4ecb-9ff4-b4cbb3994e96) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/b28eff5a-628c-4805-a7db-19d0c656582a)
-![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/238177bf-c72b-4038-90d5-d6a9fd593818) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/e09fbd98-1e02-4068-b0d1-cc706c5e9057)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/99d85491-4b9f-4ecb-9ff4-b4cbb3994e96) 
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/b28eff5a-628c-4805-a7db-19d0c656582a)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/238177bf-c72b-4038-90d5-d6a9fd593818) 
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/e09fbd98-1e02-4068-b0d1-cc706c5e9057)
 
 Выводы: как видно из саммари и последующих графиков, чтение контрольной последовательности проходит проверку качества по всем метрикам и, следовательно, в подрезании не нуждается   
 
