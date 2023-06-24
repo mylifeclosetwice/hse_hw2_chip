@@ -35,12 +35,38 @@
 
 ### ENCFF000VEK
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/7ce0ceb6-f247-4f5b-8839-81776b02fcd3) 
+
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/99d85491-4b9f-4ecb-9ff4-b4cbb3994e96) 
+
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/b28eff5a-628c-4805-a7db-19d0c656582a)
+
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/238177bf-c72b-4038-90d5-d6a9fd593818) 
+
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/e09fbd98-1e02-4068-b0d1-cc706c5e9057)
 
 Выводы: как видно из саммари и последующих графиков, чтение контрольной последовательности проходит проверку качества по всем метрикам и, следовательно, в подрезании не нуждается   
+
+## Выравнивание на 7-ую хромосому: статистика
+
+ChIP-seq	| Total number of reads |	Unique reads number |	Common reads number |	No Alignment
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+ENCFF000VDV	| 13962988 |	754540 (5.40%)	 | 3095936 (22.17%) |	10112512 (72.42%)
+ENCFF000VDU	| 36240958 |	1973592 (5.45%) |	5392765 (14.88%) |	28874601 (79.67%)
+ENCFF000VEK	| 36418708 |	2626947 (7.21%) |	5271026 (14.47%) |	28520735 (78.31%)
+
+Наблюдение: поскольку мы выравнивали чтение на одну хромосому, количество выравниваний получилось небольшим, что было ожидаемо. Количество уникальных выравниваний не слишком высоко, но лежит в пределах нормы. 
+
+## Диаграммы Венна
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1dadc810-2f52-49d6-b39a-0604f2718ec0)
+
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1688b3ff-d370-4732-9a2b-f44198685957)
+
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/f58b7f56-a9ab-4bd9-9150-ca1e4b532188)
+
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/91fca8fa-0205-45e6-99ba-bc5580d241e7)
+
+
+
 
 
 
