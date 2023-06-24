@@ -59,13 +59,9 @@ ENCFF000VEK	| 36418708 |	2626947 (7.21%) |	5271026 (14.47%) |	28520735 (78.31%)
 ## Диаграммы Венна
 X > Y             |  Y > X
 :-------------------------:|:-------------------------:
-![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1dadc810-2f52-49d6-b39a-0604f2718ec0) |
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1dadc810-2f52-49d6-b39a-0604f2718ec0) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1688b3ff-d370-4732-9a2b-f44198685957)
 
-![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1688b3ff-d370-4732-9a2b-f44198685957)
-
-![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/f58b7f56-a9ab-4bd9-9150-ca1e4b532188) |
-
-![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/91fca8fa-0205-45e6-99ba-bc5580d241e7)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/f58b7f56-a9ab-4bd9-9150-ca1e4b532188) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/91fca8fa-0205-45e6-99ba-bc5580d241e7)
 
 Комментарий: Аглоритм, на котором строятся данные диаграммы работает таким образом, что пики первого чтения ищутся во втором чтении. Если некторые пики, первого чтения меньше (нет совпадения в размере пиков), то алгоритм выдаст совпадение при сравнении превого со вторым, но не даст его при сравнении второго с первым (поскольку большие пики содержат меньшие, но не наоборот).Отсюда и разница в цифрах и графиках. Про само количество пересечений можно сказать, что оно относительно небольшое (ожидаемо), опять же, потому что выпавнивание происходило на всего одну хромосому.
 
@@ -74,8 +70,7 @@ X > Y             |  Y > X
 
 Типичное             |  Эксперементальное
 :-------------------------:|:-------------------------:
-![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1cc272a4-e544-4ee1-a7a5-4a233e8f5501)
- | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/9afab55a-aff5-43ea-9630-54818d4e8a2e)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/1cc272a4-e544-4ee1-a7a5-4a233e8f5501) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/9afab55a-aff5-43ea-9630-54818d4e8a2e)
 
 Выводы:
 
@@ -83,8 +78,7 @@ X > Y             |  Y > X
 
 Типичное             |  Эксперементальное
 :-------------------------:|:-------------------------:
-![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/349810c7-d103-42de-9e40-770e83ebde56)
- | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/072cedf1-766e-4354-9280-dbb9539f1027)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/349810c7-d103-42de-9e40-770e83ebde56) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/072cedf1-766e-4354-9280-dbb9539f1027)
 
 Выводы:
 
