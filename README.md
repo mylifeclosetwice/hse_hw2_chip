@@ -20,6 +20,7 @@
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/d412145b-1bad-40a1-8b51-70433bb607f4) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/32a29cce-b115-4a67-a51e-68bc27c2d59a)
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/a52bf68c-d5bb-46e3-b907-f61c67138d4d) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/051a0303-5bf2-4d8a-a82c-3ad32dfb9faf)
 
+Выводы: как можем видеть на графике Per base sequence quality, чтение не прошло проверку качества и, следовательно, необходимо его подрезать (я воспользовалась trimmomatic). После подрезания картина заметно улучшилась: графики качества либо изменили показатели к лучшему, либо остались на преднем хорошем уровне.   
 
 
 
