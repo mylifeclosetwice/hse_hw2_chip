@@ -31,6 +31,20 @@
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/6e7c89ff-8fb1-4d4e-9b45-776da06449aa) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/dbfa5c7f-d9cf-4305-90a5-b173e4027247)
 ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/c690b467-6c8e-4188-bf2d-870bb6377c38) | ![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/75f242f1-943c-455a-8b90-2db7e034514c)
 
+Выводы: Ситуация похожа на то, что мы видели в первой реплике, однако показатели на графике Per base sequence quality намного хуже. Подрезание (я воспользовалась trimmomatic) несколько улучшает картину, но проверку качества (для данной метрики) чтение все равно не проходит.
+
+### ENCFF000VEK
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/7ce0ceb6-f247-4f5b-8839-81776b02fcd3)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/99d85491-4b9f-4ecb-9ff4-b4cbb3994e96)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/b28eff5a-628c-4805-a7db-19d0c656582a)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/238177bf-c72b-4038-90d5-d6a9fd593818)
+![image](https://github.com/mylifeclosetwice/hse_hw2_chip/assets/71773580/e09fbd98-1e02-4068-b0d1-cc706c5e9057)
+
+Выводы: как видно из саммари и последующих графиков, чтение контрольной последовательности проходит проверку качества по всем метрикам и, следовательно, в подрезании не нуждается   
+
+
+
+
 
 
 
